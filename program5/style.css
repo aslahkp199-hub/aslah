@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: arial;
+    background: #fff8c1;
+}
+header{
+    text-align: center;
+    background: #ff9800;
+    color:white;
+    padding:20px;
+}
+.content{
+    width: 60%;
+    margin: 30px;
+    padding: 20px;
+    background:white;
+}
+input{
+    width:65%;
+    padding: 10px;
+}
+button{
+    padding:10px;
+    background: #ff9800;
+    color: white;
+    border: 0;
+}
+.note button{
+    float: right;
+    margin-left: 5px;
+}
